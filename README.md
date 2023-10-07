@@ -1,2 +1,2 @@
 # Receitas
-Aplicativo básico, exercício da faculdade
+Aplicativo básico de receitas salvas, exercício da faculdade
